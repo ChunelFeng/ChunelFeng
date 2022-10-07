@@ -11,6 +11,7 @@
 ![info](https://github-readme-stats.vercel.app/api?username=ChunelFeng&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 ---- 
+<!--
 ### Top Repositories
 
 <a href="https://github.com/ChunelFeng/CGraph">
@@ -25,4 +26,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChunelFeng&repo=CThreadPool&theme=buefy" />
 </a>
 
-----
+-->
