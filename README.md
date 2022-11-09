@@ -2,7 +2,8 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=ChunelFeng.ChunelFeng)
 
 - 💬 My blog: [一面之猿网](http://www.chunel.cn/)
-- 📫 My email: `chunel@foxmail.com`
+- 💬 My email: `chunel@foxmail.com`
+- 💬 My wechat: ChunelFeng
 
 - 码坛皮条客 | 团队背锅侠 | AI绝缘体 | BUG收割机
 - 销售型程序员 | 狗币价位风向标 | 零代码编程践行者 | ctrlcv开发布道师
