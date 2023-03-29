@@ -11,6 +11,9 @@
 
 ![info](https://github-readme-stats.vercel.app/api?username=ChunelFeng&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
+![WeChat QRCode](https://github.com/ChunelFeng/CGraph/blob/main/doc/image/CGraph%20Author.jpg)
+
+
 ---- 
 <!--
 ### Top Repositories
