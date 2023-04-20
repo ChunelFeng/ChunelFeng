@@ -9,8 +9,6 @@
 - 销售型程序员 | 狗币价位风向标 | 零代码编程践行者 | ctrlcv开发布道师
 - 领导难以启齿的过去 | 同事不堪回首的曾经 | 产品挥之不去的噩梦 | 测试心里永远无法抹去的痛
 
-![info](https://github-readme-stats.vercel.app/api?username=ChunelFeng&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
-
 ![WeChat QRCode](https://github.com/ChunelFeng/CGraph/blob/main/doc/image/CGraph%20Author.jpg)
 
 
