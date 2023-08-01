@@ -12,6 +12,9 @@
 ![WeChat QRCode](https://github.com/ChunelFeng/CGraph/blob/main/doc/image/CGraph%20Author.jpg)
 
 
+
+![](https://raw.githubusercontent.com/ChunelFeng/ChunelFeng/main/assets/github-contribution-grid-snake.svg)
+
 ---- 
 <!--
 ### Top Repositories
