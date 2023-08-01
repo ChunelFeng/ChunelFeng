@@ -1,4 +1,5 @@
 ---- 
+
 ![](https://visitor-badge.glitch.me/badge?page_id=ChunelFeng.ChunelFeng)
 
 - 🙊 My blog: [一面之猿网](http://www.chunel.cn/)
@@ -11,9 +12,11 @@
 
 ![WeChat QRCode](https://github.com/ChunelFeng/CGraph/blob/main/doc/image/CGraph%20Author.jpg)
 
-
-
-![](https://raw.githubusercontent.com/ChunelFeng/ChunelFeng/main/assets/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChunelFeng/ChunelFeng/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChunelFeng/ChunelFeng/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ChunelFeng/ChunelFeng/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---- 
 
