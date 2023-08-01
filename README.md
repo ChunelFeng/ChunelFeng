@@ -16,19 +16,4 @@
 ![](https://raw.githubusercontent.com/ChunelFeng/ChunelFeng/main/assets/github-contribution-grid-snake.svg)
 
 ---- 
-<!--
-### Top Repositories
 
-<a href="https://github.com/ChunelFeng/CGraph">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChunelFeng&repo=CGraph&theme=buefy" />
-</a>
-
-<a href="https://github.com/ChunelFeng/caiss">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChunelFeng&repo=caiss&theme=buefy" />
-</a>
-
-<a href="https://github.com/ChunelFeng/CThreadPool">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChunelFeng&repo=CThreadPool&theme=buefy" />
-</a>
-
--->
