@@ -1,6 +1,8 @@
+<img align="right"  width="256px" src="https://profile-counter.glitch.me/Chunel/count.svg"/>
+
 ---- 
 
-![](https://visitor-badge.glitch.me/badge?page_id=ChunelFeng.ChunelFeng)
+<img align="right" src="https://github.com/ChunelFeng/CGraph/blob/main/doc/image/CGraph%20Author.jpg" width="256px">
 
 - 🙊 My blog: [一面之猿网](http://www.chunel.cn/)
 - 📫 My email: `chunel@foxmail.com`
@@ -10,7 +12,7 @@
 - 销售型程序员 | 狗币价位风向标 | 零代码编程践行者 | ctrlcv开发布道师
 - 领导难以启齿的过去 | 同事不堪回首的曾经 | 产品挥之不去的噩梦 | 测试心里永远无法抹去的痛
 
-![WeChat QRCode](https://github.com/ChunelFeng/CGraph/blob/main/doc/image/CGraph%20Author.jpg)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChunelFeng/ChunelFeng/output/github-contribution-grid-snake-dark.svg">
