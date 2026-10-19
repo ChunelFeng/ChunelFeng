@@ -1,9 +1,21 @@
+---- 
 
 <img align="right" src="https://github.com/ChunelFeng/CGraph/blob/main/doc/image/CGraph%20Author.jpg" width="256px">
-
-我是 Chunel，熟悉 cpp/python/java 语言。从事过推荐系统算法和引擎全链路开发。近5年，主要从事<b>自动驾驶行业中间件</b> 研发工作，针对ROS2体系进行深度改造，持续提升性能和稳定性，并已实现量产。<br><br>
-同时，作为项目发起人，长期主导开源项目 [<b>CGraph DAG调度引擎（2k+ star）</b>](https://github.com/ChunelFeng/CGraph)，在众多智驾、机器人、互联网公司、科研机构实际落地。调度性能远超同类竞品，在开源社区有一定的影响力。<br>
 
 - 🙊 My blog: [一面之猿网](http://www.chunel.cn/)
 - 📫 My email: `chunel@foxmail.com`
 - 🐶 My wechat: ChunelFeng
+
+- 码坛皮条客 | 团队背锅侠 | AI绝缘体 | BUG收割机
+- 销售型程序员 | 狗币价位风向标 | 零代码编程践行者 | ctrlcv开发布道师
+- 领导难以启齿的过去 | 同事不堪回首的曾经 | 产品挥之不去的噩梦 | 测试心里永远无法抹去的痛
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChunelFeng/ChunelFeng/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChunelFeng/ChunelFeng/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ChunelFeng/ChunelFeng/output/github-contribution-grid-snake.svg">
+</picture>
+
+---- 
